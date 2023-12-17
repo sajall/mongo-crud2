@@ -1,0 +1,18 @@
+.App{
+  width: 300px; ;
+  background-color: red;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border: 2px solid black;
+  height: 50px;
+  padding: 50px;
+
+}
+.App input{
+  width:150px;
+  /* margin-top: 20px; */
+}
